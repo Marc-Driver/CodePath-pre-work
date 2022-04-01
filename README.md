@@ -2,9 +2,9 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Marc Driver**
 
-Time spent: **#** hours spent in total
+Time spent: **5** hours spent in total
 
 Link to project:https://glitch.com/edit/#!/volcano-cute-hovercraft?path=index.html%3A1%3A0
 
@@ -66,7 +66,7 @@ If I had the chance to work in this project a little longer I would’ve definit
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording]https://www.loom.com/share/0fdcdb7965544bf69238d09d9e540e38
 
 
 ## License
