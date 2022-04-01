@@ -6,19 +6,19 @@ Submitted by: **NAME**
 
 Time spent: **#** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project:https://glitch.com/edit/#!/volcano-cute-hovercraft?path=index.html%3A1%3A0
 
 ## Required Functionality
 
 The following **required** functionality is complete:
 
-* [ ] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [ ] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [ ] Game buttons each light up and play a sound when clicked. 
-* [ ] Computer plays back sequence of clues including sound and visual cue for each button
-* [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [ ] User wins the game after guessing a complete pattern
-* [ ] User loses the game after an incorrect guess
+* [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [x] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [x] Game buttons each light up and play a sound when clicked. 
+* [x] Computer plays back sequence of clues including sound and visual cue for each button
+* [x] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [x] User wins the game after guessing a complete pattern
+* [x] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
@@ -39,23 +39,28 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
+![x] ![light-sound-game](https://user-images.githubusercontent.com/92197236/161190733-bb68e981-28fc-4b96-8d3e-ef91e5470787.gif)
+![x]![light-sound-game-loss](https://user-images.githubusercontent.com/92197236/161190797-4a164b07-de8e-4a80-ae25-7c96bbc216dc.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+N/A
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+    For this challenge I was introduced to new programming languages. I have almost two semesters of experience using java which is similar to how I used java script for this program. However, I had never done anything related to html or css. I enjoyed learning some basics with this project on all three languages. The main challenge for me was encountering them all at once. To avoid any overwhelming, I took the project a step at a time and made sure that I was able to fully understand what the step was asking for and how to apply it before moving onto the next step. Even when the instructions would state to copy the following code, I would write it out myself so that I may more easily remember what to do and why for any future instance in which I may need these skills. Another challenge I faced, believe it or not, was even to get my code uploaded to my repository. For some reason it did not occur to me to copy the code into my own text editor and save it to the pre work file. After some struggling it finally clicked to just copy them and save them appropriately which caused a very big sigh of relief from the frustrations I was having. I could finally see the finish line!
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+After completing this submission, I was exposed to how webpages are actually made. However basic this project may have been, it answered some questions I had about web development and sprung up new ones even. For example:
+How do we ensure that a website is secure and is best defended from any attacks on information?
+Are all websites built from the same foundation as we encountered in this project?
+Are companies that offer a website building platform simply a pre written template with options? And doing so, do they almost act as a middle man between the user and actually writing the code for the site?
+The project definitely sparked an interest in web development for me and I want to learn more. I believe it would be fun to create a website from scratch, just to see how far I can get with it and to further enhance my knowledge and skills.  
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I had the chance to work in this project a little longer I would’ve definitely attacked the optional features of the game. Some of our current in school projects are already showing us how to randomly pick numbers and place them randomly in an array. This would’ve allowed the game to have a different sequence every time. I also believe I would’ve easily been able to implement a certain number of lives before the user lost the game. I believe id be able to do this by declaring a new variable called “lives” and incrementing every time the user was to pick a wrong button. Then after we would have an if statement checking if the live was greater than or equal to 3. If this was found to be true then we would call the game over method. I would’ve also liked to further explore the colors and shapes of the buttons. This seems rather simple but I’m sure there are many advanced features in which the styling gets very detailed. And the last thing that seems quite hard and time consuming would be to play around with the sound of the buttons. Being a musician for many years I love to play with sounds and music. However in the case of this project I was very focused on learning the coding aspect of it. 
 
 
 
